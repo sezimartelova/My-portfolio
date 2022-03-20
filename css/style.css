@@ -90,10 +90,6 @@ body{
     background-color: var(--accent-light);
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 .intro {
     padding: 60px 0;
     
@@ -124,10 +120,7 @@ body{
 }
 
 .contacts{
-<<<<<<< HEAD
     text-align: center;
-=======
->>>>>>> main
     margin-bottom: 60px;
 }
 .contacts ul {
@@ -161,11 +154,8 @@ body{
 
  .skills li{
      padding: 10px 25px;
-<<<<<<< HEAD
      border-color:var(--accent-light) ;
-=======
      border-color:var(--accent light) ;
->>>>>>> main
      border-radius: 4px;
  }
 
@@ -190,8 +180,6 @@ body{
     background-color: var(--accent);
     border-radius: 10px;
 }
-<<<<<<< HEAD
- 
 
 
 .languages h2{
@@ -267,7 +255,6 @@ body{
  .portfolio ul a:hover {
      background-color: var(--accent-light);
  }
-=======
 
 .language-section{
     font-style: italic;
@@ -279,5 +266,3 @@ body{
      color: var(--pure-white);
      background-color: var(--accent);
  }
-
->>>>>>> main
