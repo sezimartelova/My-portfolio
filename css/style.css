@@ -181,6 +181,10 @@ body{
     border-radius: 10px;
 }
 
+.language-section{
+    font-style: italic;
+}
+
 
 .languages h2{
     text-align: center;
@@ -194,19 +198,21 @@ body{
     border-radius: 4px;
 }
 
-.education-section h2{
-    text-align: center;
-}
-
 .education-section{
-    
+    padding: 0;
      color: var(--pure-white);
      background-color: var(--accent);
 }
 
+
+.education-section h2{
+    text-align: center;
+}
+
+
  .portfolio {
     background-color: var(--accent);
-   padding: 20px 0;
+    padding: 20px 0;
  }
  
 
@@ -256,13 +262,5 @@ body{
      background-color: var(--accent-light);
  }
 
-.language-section{
-    font-style: italic;
-}
 
-.education-section{
-   
-     padding: 60px 0;
-     color: var(--pure-white);
-     background-color: var(--accent);
- }
+
